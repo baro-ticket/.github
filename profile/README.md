@@ -52,5 +52,5 @@
 ## 💁‍♂️ 프로젝트 팀원
 |FE|FE|BE, CI/CD|BE, Monitoring|
 |:---:|:---:|:---:|:---:|
-| ![](https://github.com/simsangho6448.png?size=120) | ![](https://github.com/sh167603.png?size=120) | ![](https://github.com/myeongsoyi.png?size=120) | ![](https://github.com/kuni4210.png?size=120) |
+|<img src="https://github.com/simsangho6448.png" width="120" height="120">|<img src="https://github.com/sh167603.png" width="120" height="120">|<img src="https://github.com/myeongsoyi.png" width="120" height="120">|<img src="https://github.com/kuni4210.png" width="120" height="120">|
 |[심상호](https://github.com/simsangho6448)|[박수환](https://github.com/sh167603)|[명소이](https://github.com/myeongsoyi)|[김건휘](https://github.com/kuni4210)|
