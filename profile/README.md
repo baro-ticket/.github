@@ -25,14 +25,14 @@
 <div align="center"><img src="../image/userflow.png"/></div> 
 
 > ### 공연 상세 조회
-<div align="center"><img src="../image/공연상세조회.png"/></div> 
+<div align="center"><img src="../image/공연상세조회.png" width="500"/></div> 
 
 > ### 공연 예매
 #### 예매 요청
-<div align="center"><img src="../image/예매1.png"/></div> 
+<div align="center"><img src="../image/예매1.png" width="500"/></div> 
 
 #### 예매 승인
-<div align="center"><img src="../image/예매2.png"/></div> 
+<div align="center"><img src="../image/예매2.png" width="500"/></div> 
 
 ## ⚙ 기술 스택
 <div align="center"><img src="../image/기술스택.png"/></div> 
