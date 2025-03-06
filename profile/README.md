@@ -21,29 +21,25 @@
 
 ## 🗂️ APIs
 
-<br />
+> ### User Flow
+<div align="center"><img src="../image/userflow.png"/></div> 
+
+> ### 공연 상세 조회
+<div align="center"><img src="../image/공연상세조회.png"/></div> 
+
+> ### 공연 예매
+#### 예매 요청
+<div align="center"><img src="../image/예매1.png"/></div> 
+
+#### 예매 승인
+<div align="center"><img src="../image/예매2.png"/></div> 
 
 ## ⚙ 기술 스택
-### Back-end
-<div>
-  
-</div>
-
-### Infra
-<div>
-  
-</div>
-
-### Tools
-<div>
-  
-</div>
-
-<br />
+<div align="center"><img src="../image/기술스택.png"/></div> 
 
 ## 🛠️ 프로젝트 아키텍쳐
 
-<img src="#" width="400"/>
+<div align="center"><img src="../image/아키텍처.png"/></div> 
 
 <br />
 
@@ -54,7 +50,7 @@
 <br />
 
 ## 💁‍♂️ 프로젝트 팀원
-|||
-|:---:|:---:|
-| ![](https://github.com/myeongsoyi.png?size=120) | ![]() |
-|[명소이](https://github.com/myeongsoyi)|[]()|
+|FE|FE|BE, CI/CD|BE, Monitoring|
+|:---:|:---:|:---:|:---:|
+| ![](https://github.com/simsangho6448.png?size=120) | ![](https://github.com/sh167603.png?size=120) | ![](https://github.com/myeongsoyi.png?size=120) | ![](https://github.com/kuni4210.png?size=120) |
+|[심상호](https://github.com/simsangho6448)|[박수환](https://github.com/sh167603)|[명소이](https://github.com/myeongsoyi)|[김건휘](https://github.com/kuni4210)|
