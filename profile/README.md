@@ -71,7 +71,7 @@
 
 > ### 모니터링
 
-<div align="center"><img src="../image/모니터링.png " width="500"/></div> 
+<div align="center"><img src="../image/모니터링1.png " width="500"/></div>
 
 > ### CI/CD
 
@@ -85,3 +85,63 @@
 |<img src="https://github.com/simsangho6448.png" width="120" height="120">|<img src="https://github.com/sh167603.png" width="120" height="120">|<img src="https://github.com/myeongsoyi.png" width="120" height="120">|<img src="https://github.com/kuni4210.png" width="120" height="120">|<img src="https://github.com/bf01863644.png" width="120" height="120">|
 |:---:|:---:|:---:|:---:|:---:|
 |[심상호](https://github.com/simsangho6448)|[박수환](https://github.com/sh167603)|[명소이](https://github.com/myeongsoyi)|[김건휘](https://github.com/kuni4210)|[bf01863644](https://github.com/bf01863644)|
+
+## 저장소 목록
+<table>
+  <thead>
+    <tr>
+      <th>카테고리</th>
+      <th>서비스</th>
+      <th>URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>FE</td>
+      <td>fe</td>
+      <td><a href="https://github.com/ssg-project/fe-web">https://github.com/ssg-project/fe-web</a></td>
+    </tr>
+    <tr>
+      <td rowspan="6">BE</td>
+      <td>api gateway</td>
+      <td><a href="https://github.com/ssg-project/be-api-gateway">https://github.com/ssg-project/be-api-gateway</a></td>
+    </tr>
+    <tr>
+      <td>user</td>
+      <td><a href="https://github.com/ssg-project/be-user-service">https://github.com/ssg-project/be-user-service</a></td>
+    </tr>
+    <tr>
+      <td>ticketing</td>
+      <td><a href="https://github.com/ssg-project/be-ticketing-service">https://github.com/ssg-project/be-ticketing-service</a></td>
+    </tr>
+    <tr>
+      <td>event</td>
+      <td><a href="https://github.com/ssg-project/be-event-service">https://github.com/ssg-project/be-event-service</a></td>
+    </tr>
+    <tr>
+      <td>consumer reservation</td>
+      <td><a href="https://github.com/ssg-project/be-consumer-reservation">https://github.com/ssg-project/be-consumer-reservation</a></td>
+    </tr>
+    <tr>
+      <td>websocket</td>
+      <td><a href="https://github.com/ssg-project/be-websocket">https://github.com/ssg-project/be-websocket</a></td>
+    </tr>
+    <tr>
+      <td rowspan="4">OPS</td>
+      <td>terraform</td>
+      <td><a href="https://github.com/ssg-project/terraform">https://github.com/ssg-project/terraform</a></td>
+    </tr>
+    <tr>
+      <td>charts</td>
+      <td><a href="https://github.com/ssg-project/ticketing-ops">https://github.com/ssg-project/ticketing-ops</a></td>
+    </tr>
+    <tr>
+      <td>monitoring</td>
+      <td><a href="https://github.com/ssg-project/ticketing-ops/tree/main/charts/monitoring">https://github.com/ssg-project/ticketing-ops/tree/main/charts/monitoring</a></td>
+    </tr>
+    <tr>
+      <td>cd</td>
+      <td><a href="https://github.com/ssg-project/ticketing-ops/tree/main/.github/workflows">https://github.com/ssg-project/ticketing-ops/tree/main/.github/workflows</a></td>
+    </tr>
+  </tbody>
+</table>
