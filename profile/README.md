@@ -54,8 +54,6 @@
 > ### 공연 예매
 #### 예매 요청
 <div align="center"><img src="../image/예매1.png" width="500"/></div> 
-
-#### 예매 승인
 <div align="center"><img src="../image/예매2.png" width="500"/></div> 
 
 ## ⚙ 기술 스택
