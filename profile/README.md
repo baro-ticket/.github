@@ -99,49 +99,49 @@
     <tr>
       <td>FE</td>
       <td>fe</td>
-      <td><a href="https://github.com/ssg-project/fe-web">https://github.com/ssg-project/fe-web</a></td>
+      <td><a href="https://github.com/baro-ticket/fe-web">https://github.com/baro-ticket/fe-web</a></td>
     </tr>
     <tr>
       <td rowspan="6">BE</td>
       <td>api gateway</td>
-      <td><a href="https://github.com/ssg-project/be-api-gateway">https://github.com/ssg-project/be-api-gateway</a></td>
+      <td><a href="https://github.com/baro-ticket/be-api-gateway">https://github.com/baro-ticket/be-api-gateway</a></td>
     </tr>
     <tr>
       <td>user</td>
-      <td><a href="https://github.com/ssg-project/be-user-service">https://github.com/ssg-project/be-user-service</a></td>
+      <td><a href="https://github.com/baro-ticket/be-user-service">https://github.com/baro-ticket/be-user-service</a></td>
     </tr>
     <tr>
       <td>ticketing</td>
-      <td><a href="https://github.com/ssg-project/be-ticketing-service">https://github.com/ssg-project/be-ticketing-service</a></td>
+      <td><a href="https://github.com/baro-ticket/be-ticketing-service">https://github.com/baro-ticket/be-ticketing-service</a></td>
     </tr>
     <tr>
       <td>event</td>
-      <td><a href="https://github.com/ssg-project/be-event-service">https://github.com/ssg-project/be-event-service</a></td>
+      <td><a href="https://github.com/baro-ticket/be-event-service">https://github.com/baro-ticket/be-event-service</a></td>
     </tr>
     <tr>
       <td>consumer reservation</td>
-      <td><a href="https://github.com/ssg-project/be-consumer-reservation">https://github.com/ssg-project/be-consumer-reservation</a></td>
+      <td><a href="https://github.com/baro-ticket/be-consumer-reservation">https://github.com/baro-ticket/be-consumer-reservation</a></td>
     </tr>
     <tr>
       <td>websocket</td>
-      <td><a href="https://github.com/ssg-project/be-websocket">https://github.com/ssg-project/be-websocket</a></td>
+      <td><a href="https://github.com/baro-ticket/be-websocket">https://github.com/baro-ticket/be-websocket</a></td>
     </tr>
     <tr>
       <td rowspan="4">OPS</td>
       <td>terraform</td>
-      <td><a href="https://github.com/ssg-project/terraform">https://github.com/ssg-project/terraform</a></td>
+      <td><a href="https://github.com/baro-ticket/terraform">https://github.com/baro-ticket/terraform</a></td>
     </tr>
     <tr>
       <td>charts</td>
-      <td><a href="https://github.com/ssg-project/ticketing-ops">https://github.com/ssg-project/ticketing-ops</a></td>
+      <td><a href="https://github.com/baro-ticket/ticketing-ops">https://github.com/baro-ticket/ticketing-ops</a></td>
     </tr>
     <tr>
       <td>monitoring</td>
-      <td><a href="https://github.com/ssg-project/ticketing-ops/tree/main/charts/monitoring">https://github.com/ssg-project/ticketing-ops/tree/main/charts/monitoring</a></td>
+      <td><a href="https://github.com/baro-ticket/ticketing-ops/tree/main/charts/monitoring">https://github.com/baro-ticket/ticketing-ops/tree/main/charts/monitoring</a></td>
     </tr>
     <tr>
       <td>cd</td>
-      <td><a href="https://github.com/ssg-project/ticketing-ops/tree/main/.github/workflows">https://github.com/ssg-project/ticketing-ops/tree/main/.github/workflows</a></td>
+      <td><a href="https://github.com/baro-ticket/ticketing-ops/tree/main/.github/workflows">https://github.com/baro-ticket/ticketing-ops/tree/main/.github/workflows</a></td>
     </tr>
   </tbody>
 </table>
